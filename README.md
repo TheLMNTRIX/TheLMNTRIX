@@ -33,6 +33,9 @@ Here are some of the projects I've been working on:
 
 Feel free to explore these projects and provide any feedback or suggestions!
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,bash,css,docker,fastapi,git,html,js,mysql,mongodb,opencv,py,pytorch,vscode&perline=3)](https://skillicons.dev)
+
 ## Contact Me
 
 If you have any questions, collaborations, or just want to chat about machine learning, feel free to reach out to me:
