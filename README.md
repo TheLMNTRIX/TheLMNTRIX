@@ -40,7 +40,7 @@ Feel free to explore these projects and provide any feedback or suggestions!
 
 If you have any questions, collaborations, or just want to chat about machine learning, feel free to reach out to me:
 
-- LinkedIn: linkedin.com/in/rohit-bhandari-42b283230
+- LinkedIn: linkedin.com/in/rohit-vinay-bhandari
 - Email: rohitvinaybhandari@gmail.com
 
 Let's connect and learn together!
